@@ -1,0 +1,3 @@
+This is a purely Python based project which serves the purpose of a VIRTUAL MOUSE.
+simple project which uses python libraries to track the movement of hands (fingers) and act accordingly.
+the cursor will move according to the movement of hand gestures.

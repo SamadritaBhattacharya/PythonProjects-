@@ -42,4 +42,3 @@ while True:
     cv2.imshow('Virtual mouse' , frame)
     cv2.waitKey(1)
 
-// virtual mouse

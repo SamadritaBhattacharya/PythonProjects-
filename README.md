@@ -9,7 +9,9 @@
  
  Here, with the help of python libraries, a *virtual mouse* has been created
  which considers and reads our hand gestured(finger movements)
- and acts accordingly.
+ and acts accordingly. Run it in your machine and feel free to give feedback / suggestions.
+
+ 
  
  This project has also taken part in URECON 2023.
  

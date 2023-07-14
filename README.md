@@ -26,3 +26,8 @@
  * moves the cursor left on moving the index finger of your hand left.
  * on taping/ touching the index and thumb fingers together, it executes the motion of click.
  
+
+*NEW FEATURES TO BE ADDED :-*
+  * combine an arduino car with this code
+  * ccreate a hand controlled car
+  * the movement of the car including its turning will be hand jestured controlled.

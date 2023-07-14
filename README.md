@@ -29,5 +29,5 @@
 
 *NEW FEATURES TO BE ADDED :-*
   * combine an arduino car with this code
-  * ccreate a hand controlled car
+  * create a hand-controlled car
   * the movement of the car including its turning will be hand jestured controlled.

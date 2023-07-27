@@ -1,4 +1,4 @@
-# PythonProects-
+# PythonProjects-
  new python projects for practise 
  
  ** beginners friendly.
